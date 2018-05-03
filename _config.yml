@@ -15,3 +15,5 @@ events: 18pc0jur01k8f2cccvn5j04j1g@group.calendar.google.com
 # Build settings
 markdown: kramdown
 permalink: /:year/:title:output_ext
+
+theme: jekyll-theme-slate
